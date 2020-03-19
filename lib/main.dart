@@ -8,7 +8,7 @@ void main() {
         backgroundColor: Colors.red,
         appBar: AppBar(
           title: Center(
-            child: Text('Dicee'),
+            child: Text('Dice'),
           ),
           backgroundColor: Colors.red,
         ),
